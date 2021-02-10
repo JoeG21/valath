@@ -1,0 +1,42 @@
+/* ShelterCard */
+.shelter-card {
+    border: 1px solid #eceaea;
+    border-radius: 8px;
+    width: 300px;
+    margin: 50px;
+    left: 50%;
+  }
+  
+  .card-img {
+    width: 100%;
+    border-radius: 7px 7px 0px 0px;
+  }
+  
+    /* SelShelterOppsCard */
+  .shelter-opp-opps {
+    border: 1px solid #9e9e9e;
+    border-radius: 8px;
+    width: 285px;
+    margin: auto;
+    background: #dddddd;
+  }
+
+
+
+
+
+/* OppList */
+  /* OppCard */
+.opp-card {
+    /* border: 1px solid #9e9e9e;
+    border-radius: 8px;
+    width: 285px;
+    margin: auto; */
+    margin: 10px;
+    height: 200px;
+    width: 200px;
+    padding: 10px;
+  
+    background: rgb(241, 241, 241);
+  }
+  
